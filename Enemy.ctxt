@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=initialLifes
+comment1.target=Enemy(int)
+comment2.params=
+comment2.target=void\ decreaseLife()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=world
+comment4.target=void\ onDeath(greenfoot.World)
+comment5.params=
+comment5.target=void\ checkCollisionWithHero()
+numComments=6
